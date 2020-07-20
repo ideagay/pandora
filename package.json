@@ -33,7 +33,7 @@
     "inquirer": "^7.0.1",
     "launch-editor": "^2.2.1",
     "listr": "^0.14.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "minimist": "^1.2.0",
     "node-server-screenshot": "^0.2.4",
     "nodegit": "^0.26.5",
