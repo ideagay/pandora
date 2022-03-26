@@ -34,7 +34,7 @@
     "launch-editor": "^2.2.1",
     "listr": "^0.14.3",
     "lodash": "^4.17.15",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "node-server-screenshot": "^0.2.4",
     "nodegit": "^0.26.5",
     "normalize.css": "^8.0.1",
