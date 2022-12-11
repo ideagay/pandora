@@ -38,7 +38,7 @@
     "node-server-screenshot": "^0.2.4",
     "nodegit": "^0.26.5",
     "normalize.css": "^8.0.1",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "socket.io": "^2.3.0",
     "socket.io-client": "^2.3.0",
     "supervisor": "^0.12.0",
